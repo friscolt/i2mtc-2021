@@ -25,8 +25,3 @@ Code for algorithms, applications and tools contributed by:
 F. Lopez-Tiro, H. Peregrina-Barreto, J. Rangel-Magdaleno, and J. C. Ramirez-San-Juan
 
 Please email us your comments, criticism, and questions at [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20i2mtc2021%20repository)
-
-
-## Reference
-
-If you use functions from this script in your work, please use the BibTex entry below for citation.
