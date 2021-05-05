@@ -41,7 +41,7 @@ Please email us your comments, criticism, and questions at [`francisco.lopez@ina
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/9129242)
+[[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
 
 ```
 
