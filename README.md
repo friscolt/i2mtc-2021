@@ -13,8 +13,7 @@ This work establishes a review of visualization methods for contrast calculation
 ## Contents
 
 
-* [`f_i2mtc2021.m`](https://github.com/friscolt/i2mtc-2021/blob/main/f_i2mtc2021.m) -  Matlab script. The script  `f_i2mtc2021.m` contains **1 main function (`f_i2mtc2021`) and 1 auxiliary function (`f_kmeans`)** to implement the methods described in [this paper](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf). 
-
+* [`f_i2mtc2021.m`](https://github.com/friscolt/i2mtc-2021/blob/main/f_i2mtc2021.m) -  Matlab script. The script  `f_i2mtc2021.m` contains **1 main function (`f_i2mtc2021`) and 1 auxiliary function (`f_kmeans`)** to implement the methods described in [this paper](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf).
 
 * [`data.mat`](https://github.com/friscolt/i2mtc-2021/blob/master/data.mat) - MAT file. It contains three variables. 
   *  `img`, contains a package of 30 *in-vitro* speckle images of a straight vessel at a depth of 0µm. The image is a 445x461x30 grayscale matrix.
