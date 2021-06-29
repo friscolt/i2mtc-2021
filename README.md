@@ -7,7 +7,7 @@ This repository has the functions to implement the methods described in the conf
 The visualization and localization of blood vessels in  Laser Speckle Contrast Imaging is an important task in biomedical applications such as dermatology, neurosciences, and ophthalmology, as it allows to determine the presence of blood vessels and also to estimate properties such as blood flow. 
 This work establishes a review of visualization methods for contrast calculation and improvement in Laser Speckle Contrast Imaging. In addition, it is presented the localization of blood vessels in an automatic way through  clustering. The results suggest that the localization of blood vessels depends largely on the calculation and improvement of contrast. If the blood vessel and biological tissue regions are well separated from each other, and the noise level is low, K-means clustering is a powerful tool for locating blood vessels in Laser Speckle Contrast Imaging. 
 
-[[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf) [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
+[[Paper]](https://ieeexplore.ieee.org/document/9460100) [[Poster]](https://www.researchgate.net/publication/350372727_Localization_of_Blood_Vessels_in_In-Vitro_LSCI_Images_with_K-Means)
 
 
 ## Contents
@@ -50,7 +50,7 @@ Please email us your comments, criticism, and questions at [`francisco.lopez@ina
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[[Paper]](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf)
+[[Paper]](https://ieeexplore.ieee.org/document/9460100)
 
 ```
 
