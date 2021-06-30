@@ -1,6 +1,6 @@
 # Localization of blood vessels in in-vitro LSCI images with K-means
 
-This repository has the functions to implement the methods described in the conference article: [*Localization of blood vessels in in-vitro LSCI images with K-means*](https://github.com/friscolt/i2mtc-2021/blob/main/i2mtc2021.pdf), developed as part of the project *"Visualization and localization of blood vessels"* at [INAOE](https://www.inaoep.mx). 
+This repository has the functions to implement the methods described in the conference article: [*Localization of blood vessels in in-vitro LSCI images with K-means*](https://ieeexplore.ieee.org/document/9460100), developed as part of the project *"Visualization and localization of blood vessels"* at [INAOE](https://www.inaoep.mx). 
 
 
 ## Abstract
