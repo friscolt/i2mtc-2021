@@ -53,6 +53,13 @@ If you use functions from this script in your work, please use the BibTex entry 
 [[Paper]](https://ieeexplore.ieee.org/document/9460100)
 
 ```
-
+@inproceedings{lopez2021localization,
+  title={Localization of blood vessels in in-vitro LSCI images with K-means},
+  author={Lopez-Tiro, F and Peregrina-Barreto, H and Rangel-Magdaleno, J and Ramirez-San-Juan, JC},
+  booktitle={2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
 ```
 
